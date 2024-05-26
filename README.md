@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I can't code, so you shouldn't look at my profile.
+*will update this later 💀*
+
 <!--
 **Crystallized21/Crystallized21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
