@@ -27,7 +27,7 @@ jobs:
           filename: my-metrics-0.svg
           output_action: gist
           committer_gist: ${{ secrets.GIST_SECRET }}
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, languages
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, languages, isocalendar, achievements
 
           # Options
           user: Crystallized21
@@ -42,7 +42,6 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -53,14 +52,21 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 6
 
-      - name: 🚀 Other Things!
+      - name: 🚀 Social Things!
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: my-metrics-1.svg
           base: ""
-          config_order: habits, music, isocalendar, achievements
+          config_order: habits, anime, music
           output_action: gist
           committer_gist: ${{ secrets.GIST_SECRET }}
           plugin_habits: yes
@@ -70,18 +76,16 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+          plugin_anilist: yes
+          plugin_anilist_user: Crystallized21
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites
+          plugin_anilist_limit: 4
           plugin_music: yes
-          plugin_music_limit: 4
+          plugin_music_limit: 6
           plugin_music_mode: top
           plugin_music_played_at: yes
           plugin_music_provider: spotify
           plugin_music_time_range: medium
           plugin_music_top_type: tracks
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 6
