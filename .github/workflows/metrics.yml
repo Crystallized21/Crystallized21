@@ -27,7 +27,7 @@ jobs:
           filename: my-metrics-0.svg
           output_action: gist
           committer_gist: ${{ secrets.GIST_SECRET }}
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, languages, isocalendar, achievements
+          config_order: base.header, base.activity+community, base.repositories, languages, isocalendar, achievements
 
           # Options
           user: Crystallized21
@@ -86,6 +86,6 @@ jobs:
           plugin_music_mode: top
           plugin_music_played_at: yes
           plugin_music_provider: spotify
-          plugin_music_time_range: medium
+          plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
