@@ -27,7 +27,7 @@ jobs:
           filename: my-metrics-0.svg
           output_action: gist
           committer_gist: ${{ secrets.GIST_SECRET }}
-          config_order: base, languages
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, languages
 
           # Options
           user: Crystallized21
