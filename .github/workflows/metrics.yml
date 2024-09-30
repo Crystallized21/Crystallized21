@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: 🚀 General and Stats
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -55,7 +55,7 @@ jobs:
           plugin_lines_sections: base
 
       - name: 🚀 Other Things!
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
             token: ${{ secrets.METRICS_TOKEN }}
             output_action: gist
