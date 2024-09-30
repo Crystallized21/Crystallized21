@@ -33,7 +33,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: large
           config_octicon: yes
           config_timezone: Pacific/Auckland
           plugin_languages: yes
