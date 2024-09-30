@@ -71,7 +71,3 @@ jobs:
           plugin_music_time_range: medium
           plugin_music_top_type: tracks
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.8
-          plugin_skyline_year: 2024
