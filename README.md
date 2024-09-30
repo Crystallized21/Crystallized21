@@ -1,5 +1,5 @@
-<img src="https://gist.githubusercontent.com/Crystallized21/c6ba1329fbaa4f4e77860f3e196d67b6/raw/2cfc7d3aac31252474ae68c0572668640aa0388d/my-metrics-0.svg" alt="image 1" align="{left}">
-<img src="https://gist.githubusercontent.com/Crystallized21/c6ba1329fbaa4f4e77860f3e196d67b6/raw/2cfc7d3aac31252474ae68c0572668640aa0388d/my-metrics-1.svg" alt="image 2" align="{right}">
+[<img align="left" width="390" alt="🚀" src="https://gist.githubusercontent.com/Crystallized21/c6ba1329fbaa4f4e77860f3e196d67b6/raw/2cfc7d3aac31252474ae68c0572668640aa0388d/my-metrics-0.svg">](#)]
+[<img align="left" width="390" alt="🚀" src="https://gist.githubusercontent.com/Crystallized21/c6ba1329fbaa4f4e77860f3e196d67b6/raw/2cfc7d3aac31252474ae68c0572668640aa0388d/my-metrics-1.svg">](#)]
 
 <!--
 **Crystallized21/Crystallized21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
