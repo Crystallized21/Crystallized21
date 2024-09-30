@@ -27,7 +27,7 @@ jobs:
           filename: my-metrics-0.svg
           output_action: gist
           committer_gist: ${{ secrets.GIST_SECRET }}
-          config_order: 'base, languages'
+          config_order: base, languages
 
           # Options
           user: Crystallized21
@@ -60,6 +60,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: my-metrics-1.svg
+          base: ""
+          config_order: habits, music, isocalendar, achievements
           output_action: gist
           committer_gist: ${{ secrets.GIST_SECRET }}
           plugin_habits: yes
