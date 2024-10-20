@@ -1,7 +1,7 @@
 [<img align="left" width="390" alt="🚀" src="https://gist.githubusercontent.com/Crystallized21/c6ba1329fbaa4f4e77860f3e196d67b6/raw/my-metrics-0.svg">](#)
 [<img align="left" width="390" alt="🚀" src="https://gist.githubusercontent.com/Crystallized21/c6ba1329fbaa4f4e77860f3e196d67b6/raw/my-metrics-1.svg">](#)
 
-[<img align="right" alt="🦑" src="https://private-user-images.githubusercontent.com/58403578/377369478-b0f32427-996d-4874-a297-a20396675b20.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkxNTI1OTYsIm5iZiI6MTcyOTE1MjI5NiwicGF0aCI6Ii81ODQwMzU3OC8zNzczNjk0NzgtYjBmMzI0MjctOTk2ZC00ODc0LWEyOTctYTIwMzk2Njc1YjIwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE3VDA4MDQ1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiYjJjN2U3ZmYwMDUwNzlhOWRmNmYxYjEzOThmNTZhNDlkY2YzZDQ5ZGVjM2M0MzdiODUxMWYzMmRmYjA4ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NQzRJWwQuLBZAt_B6MmjIDB5QvVDp8f4JMRyzSjxFs8">](#)
+[<img alt="🦑" src="https://i.imgur.com/qYL6nVm.png"/>](#)
 
 <!--
 **Crystallized21/Crystallized21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
