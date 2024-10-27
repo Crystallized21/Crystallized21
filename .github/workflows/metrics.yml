@@ -81,3 +81,4 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 7
+          plugin_fortune: yes
